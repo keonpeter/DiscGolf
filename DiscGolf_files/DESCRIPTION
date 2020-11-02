@@ -1,0 +1,11 @@
+Package: DiscGolf
+Title: Flying objects officially approved for use in competition
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Keon",
+           family = "Kang",
+           role = c("aut", "cre"),
+           email = "kkang21@amherst.edu")
+Description: Everyone you might want to know about Disc Golf flying objects.
+
+URL: https://github.com/kkang21/DiscGolf
